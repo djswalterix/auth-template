@@ -1,1 +1,1 @@
-# habit-tracker-api
+# auth-template
